@@ -13,4 +13,4 @@ Esta app NO recopila datos personales. Toda la información
 se almacena localmente en el dispositivo del usuario.
 
 ## Contacto
-Para consultas: tucorreo@gmail.com
+Para consultas: marcossacasqui1@gmail.com
